@@ -1,0 +1,3 @@
+[submodule "ARecieve_hmd"]
+	path = ARecieve_hmd
+	url = https://github.com/masaywar/ARecieve_hmd.git
