@@ -1,3 +1,6 @@
 [submodule "ARecieve_hmd"]
 	path = ARecieve_hmd
 	url = https://github.com/masaywar/ARecieve_hmd.git
+[submodule "ArClient"]
+	path = ArClient
+	url = git@github.com:sleevy-dev/ArClient.git
