@@ -16,4 +16,7 @@
 ## TODO
   1. Extend the functions as 1:N relations.
   2. Find other way to get more feature points.
-  3. Make API to easy-use for other AR developers. 
+  3. Make API to easy-use for other AR developers.
+
+## ETC
+  [Prototype Test video](https://drive.google.com/file/d/1cUuzTOvUPIJ_Knxzx3OLBN2St4olxyTW/view?usp=sharing)
